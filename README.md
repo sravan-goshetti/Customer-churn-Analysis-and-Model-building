@@ -1,4 +1,4 @@
-**Customer Churn Analysis**
+# **Customer Churn Analysis**
 <br>
 
 This project is analyses customer churn data to identify pattern why customers are leaving the services and build predictive models which type
@@ -16,7 +16,7 @@ While doing this project i applied what i learnt and tried get as many insights 
 - Evaluation : Comparing model performance using accuracy, recall score , precision score and F1 score.
 <br>
 
- Reflections
+## Reflections
 - I realized the importance of **data preprocessing** — it often takes more effort than model building and very important to get a model with good predictive capacity.
 - Sharing the notebook on GitHub taught me version control and collaboration skills.
 <br>
@@ -39,7 +39,7 @@ How to Run
 - Open `notebook.ipynb` in Jupyter.
 <br>
   
-**Conclusion :**
+## Conclusion :
 Working on this project gave me Handson Experience in Data anlysis and Model Building.By doing this project i have strengthenedcmy knowledge in Model building Workflow.
 <br>
 The project helped me:
